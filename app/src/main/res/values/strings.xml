@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Parcial 1 Semana 6</string>
+
+    <string name="Bienvenido">BIENVENIDOS</string>
+
+    <string name="Parcial1">PRIMER PARCIAL CICLO I-2022</string>
+
+    <string name="Tema2">PROGRAMACION COMPUTACIONAL II</string>
+
+    <string name="Button">SIGUIENTE</string>
+
+    //Pantalla 2 Menu//
+
+    <string name="Menu">MENU</string>
+
+    <string name="EnviarDatos">ENVIAR DATOS</string>
+
+    <string name="RecibirDatos">RECIBIR DATOS</string>
+
+    <string name="Tabs">TABS</string>
+
+    <string name="SensordeProximidad">SENSOR DE PROXIMIDAD</string>
+
+    <string name="Acelerometro">ACELEROMETRO</string>
+
+    <string name="Musica">MUSICA</string>
+
+    //Pantalla 3 Enviar Datos //
+
+    <string name="titulo">DETERMINAR SI ES MAYOR DE EDAD</string>
+
+    <string name="nombre">Escriba su nombre</string>
+
+    <string name="edad">Escriba su edad</string>
+
+    <string name="enviarDatos">ENVIAR DATOS</string>
+
+    <string name="volver">PANTALLA ANTERIOR</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="Regresar">REGRESAR</string>
+
+    //Pantalla 4 Recibir Datos//
+
+
+    <string name="Regresar1">REGRESAR</string>
+
+
+    //Pantalla 5 Tabs//
+
+    <string name="co">Contacts</string>
+
+    <string name="em">Email</string>
+
+    <string name="msg">Messages</string>
+
+    <string name="Regresar2">REGRESAR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ctcFragment">Contacts Information</string>
+
+    <string name="eFragment">Email Information</string>
+
+    <string name="msgFragment">Messages Information</string>
+
+    <string name="Regresar3">REGRESAR</string>
+
+    //Pantalla 6 Sensor de Proximidad//
+
+    <string name="sensor">SENSOR DE PROXIMIDAD</string>
+
+    <string name="Regresar4">REGRESAR</string>
+
+    //Pantalla 7 Acelerometro//
+
+    <string name="Regresar5">REGRESAR</string>
+
+    //Pantalla 8 Musica y Acercade //
+
+    <string name="q">Informacion de la app</string>
+
+    <string name="segundo">Mandanos tu Opinion</string>
+
+    <string name="s">Music inc.</string>
+
+    <string name="Acercade">ACERCA DE</string>
+
+    <string name="Regresar6">REGRESAR</string>
+
+    //Pantalla 9 Acercade //
+
+    <string name="Regresar7">REGRESAR</string>
+
+</resources>
